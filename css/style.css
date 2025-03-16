@@ -1,0 +1,27 @@
+:root {
+  --main-front: "Plus Jakarta Sans", sans-serif;
+  --second-front: "Poppins", sans-serif;
+  --third-front: "Playfair Display", sans-serif;
+  --white-color: #ffffff;
+  --blue-color: #f2f7ff;
+  --dark-color: #094b72;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+}
